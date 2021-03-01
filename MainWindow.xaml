@@ -11,5 +11,7 @@
         <Button x:Name="ButtonCount" Content="Button" HorizontalAlignment="Left" Margin="178,85,0,0" VerticalAlignment="Top" Click="ButtonCount_Click"/>
         <Label x:Name="TextToShow" Content="Label" HorizontalAlignment="Left" Margin="109,129,0,0" VerticalAlignment="Top"/>
         <Label x:Name="labelCount" Content="Label" HorizontalAlignment="Left" Margin="172,130,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="268,94,0,0" VerticalAlignment="Top"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="296,146,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Window>
