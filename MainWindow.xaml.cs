@@ -24,5 +24,11 @@ namespace GitHubAttempt
         {
             InitializeComponent();
         }
+
+        private void ButtonToSayHello_Click(object sender, RoutedEventArgs e)
+        {
+            string hello = "Hello World";
+            TextToShow.Content = hello;
+        }
     }
 }
