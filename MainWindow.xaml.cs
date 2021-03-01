@@ -30,11 +30,5 @@ namespace GitHubAttempt
             string hello = "Hello World";
             TextToShow.Content = hello;
         }
-        int Count = 0;
-        private void ButtonCount_Click(object sender, RoutedEventArgs e)
-        {
-            Count++;
-            labelCount.Content = Count;
-        }
     }
 }
